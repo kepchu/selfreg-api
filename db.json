@@ -1,0 +1,508 @@
+{
+  "centre": {
+    "Name": "tst",
+    "Address": "test",
+    "centreID": 2019,
+    "products": [
+      {
+        "classes": [],
+        "productID": 13,
+        "Name": "CTP"
+      },
+      {
+        "classes": [
+          {
+            "classID": 29580,
+            "className": "Digital Marketing Demo"
+          }
+        ],
+        "productID": 43,
+        "Name": "WorkForce Toolkit (1 module)"
+      },
+      {
+        "classes": [],
+        "productID": 20,
+        "Name": "Equalskills"
+      },
+      {
+        "classes": [],
+        "productID": 14,
+        "Name": "DPC"
+      },
+      {
+        "classes": [
+          {
+            "classID": 23524,
+            "className": "123456"
+          },
+          {
+            "classID": 23549,
+            "className": "Depuy Johnson  Johnson (Ireland)"
+          },
+          {
+            "classID": 21408,
+            "className": "EA1"
+          },
+          {
+            "classID": 21573,
+            "className": "Emma 1"
+          },
+          {
+            "classID": 23541,
+            "className": "Joe Pack Class"
+          },
+          {
+            "classID": 23525,
+            "className": "Joes Test class"
+          },
+          {
+            "classID": 21646,
+            "className": "Kens 2013"
+          },
+          {
+            "classID": 20963,
+            "className": "Kens Class"
+          },
+          {
+            "classID": 21439,
+            "className": "Sarah ECDL 2015"
+          },
+          {
+            "classID": 23563,
+            "className": "SF Case 69118"
+          },
+          {
+            "classID": 23591,
+            "className": "SF Case 69587"
+          },
+          {
+            "classID": 23592,
+            "className": "SF Case 69852"
+          },
+          {
+            "classID": 23772,
+            "className": "SF Case 74041"
+          },
+          {
+            "classID": 26431,
+            "className": "Summer 2017"
+          },
+          {
+            "classID": 24481,
+            "className": "Testing Class"
+          },
+          {
+            "classID": 16946,
+            "className": "Tom Ryan 2"
+          },
+          {
+            "classID": 16945,
+            "className": "toms class"
+          }
+        ],
+        "productID": 28,
+        "Name": "New ECDL"
+      },
+      {
+        "classes": [
+          {
+            "classID": 22207,
+            "className": "Lindas CTP Class"
+          }
+        ],
+        "productID": 40,
+        "Name": "CTP"
+      },
+      {
+        "classes": [],
+        "productID": 23,
+        "Name": "CITP"
+      },
+      {
+        "classes": [
+          {
+            "classID": 23194,
+            "className": "Philips Class"
+          }
+        ],
+        "productID": 16,
+        "Name": "Advanced Word Processing"
+      },
+      {
+        "classes": [],
+        "productID": 17,
+        "Name": "Advanced Spreadsheets"
+      },
+      {
+        "classes": [],
+        "productID": 18,
+        "Name": "Advanced Presentations"
+      },
+      {
+        "classes": [],
+        "productID": 19,
+        "Name": "Advanced Databases"
+      },
+      {
+        "classes": [],
+        "productID": 44,
+        "Name": "WorkForce Toolkit (5 modules)"
+      },
+      {
+        "classes": [],
+        "productID": 46,
+        "Name": "ECDL School Essentials"
+      },
+      {
+        "classes": [
+          {
+            "classID": 15661,
+            "className": "DemoClassFor2013"
+          },
+          {
+            "classID": 25834,
+            "className": "Digital Skills for Citizens"
+          },
+          {
+            "classID": 15767,
+            "className": "Test 123"
+          },
+          {
+            "classID": 15683,
+            "className": "TestNew"
+          }
+        ],
+        "productID": 22,
+        "Name": "Digital Skills for Citizens"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [],
+        "productID": 47,
+        "Name": "IT Security Essentials"
+      },
+      {
+        "classes": [
+          {
+            "classID": 29570,
+            "className": "Accredible Digital Cert Testing"
+          },
+          {
+            "classID": 6183,
+            "className": "asas"
+          },
+          {
+            "classID": 24482,
+            "className": "BruceWayne"
+          },
+          {
+            "classID": 29498,
+            "className": "John Restore Demo"
+          },
+          {
+            "classID": 29790,
+            "className": "Moodle2019-2010-TEST"
+          },
+          {
+            "classID": 29795,
+            "className": "Moodle2019-2016-Test"
+          },
+          {
+            "classID": 15953,
+            "className": "NRtest"
+          }
+        ],
+        "productID": 29,
+        "Name": "ICT"
+      },
+      {
+        "classes": [],
+        "productID": 42,
+        "Name": "Online Hits"
+      },
+      {
+        "classes": [],
+        "productID": 45,
+        "Name": "WorkForce Toolkit (Unlimited)"
+      }
+    ]
+  },
+  "securityQuestions": [
+    {
+      "question_ID": 1,
+      "question_Text": "What was the name of your closest childhood friend?"
+    },
+    {
+      "question_ID": 2,
+      "question_Text": "What is the name of the hospital where you were born?"
+    },
+    {
+      "question_ID": 3,
+      "question_Text": "What is the first and last name of your oldest cousin?"
+    },
+    {
+      "question_ID": 4,
+      "question_Text": "What is your mother's maiden name?"
+    },
+    {
+      "question_ID": 5,
+      "question_Text": "What is your favourite or dream holiday location?"
+    },
+    {
+      "question_ID": 6,
+      "question_Text": "What is the name of your most inspiring teacher?"
+    },
+    {
+      "question_ID": 7,
+      "question_Text": "What is the name of your first pet?"
+    },
+    {
+      "question_ID": 8,
+      "question_Text": "What was the name of your first school?"
+    },
+    {
+      "question_ID": 9,
+      "question_Text": "What was the name of your favourite childhood toy?"
+    },
+    {
+      "question_ID": 10,
+      "question_Text": "What is your dream job?"
+    },
+    {
+      "question_ID": 11,
+      "question_Text": "What is your star sign?"
+    },
+    {
+      "question_ID": 12,
+      "question_Text": "What is your shoe size?"
+    },
+    {
+      "question_ID": 13,
+      "question_Text": "What are the last four digits of your home phone number?"
+    },
+    {
+      "question_ID": 14,
+      "question_Text": "Who is your idol?"
+    },
+    {
+      "question_ID": 15,
+      "question_Text": "Where was your favourite place to visit as a child?"
+    },
+    {
+      "question_ID": 16,
+      "question_Text": "What is your father's middle name?"
+    },
+    {
+      "question_ID": 17,
+      "question_Text": "What is your dream holiday location?"
+    },
+    {
+      "question_ID": 0,
+      "question_Text": "-- Please select one --"
+    }
+  ],
+  "titles": [
+    "Mr.",
+    "Ms.",
+    "Mrs.",
+    "Miss",
+    "Dr.",
+    "Sr.",
+    "Br.",
+    "Fr."
+  ],
+  "counties": [
+    "Co. Carlow",
+    "Co. Cavan",
+    "Co. Clare",
+    "Co. Cork",
+    "Co. Donegal",
+    "Co. Dublin",
+    "Dublin 1",
+    "Dublin 2",
+    "Dublin 3",
+    "Dublin 4",
+    "Dublin 5",
+    "Dublin 6",
+    "Dublin 6W",
+    "Dublin 7",
+    "Dublin 8",
+    "Dublin 9",
+    "Dublin 10",
+    "Dublin 11",
+    "Dublin 12",
+    "Dublin 13",
+    "Dublin 14",
+    "Dublin 15",
+    "Dublin 16",
+    "Dublin 17",
+    "Dublin 18",
+    "Dublin 20",
+    "Dublin 22",
+    "Dublin 24",
+    "Co. Galway",
+    "Co. Kerry",
+    "Co. Kildare",
+    "Co. Kilkenny",
+    "Co. Laois",
+    "Co. Leitrim",
+    "Co. Limerick",
+    "Co. Longford",
+    "Co. Louth",
+    "Co. Mayo",
+    "Co. Meath",
+    "Co. Monaghan",
+    "Co. Offaly",
+    "Co. Roscommon",
+    "Co. Sligo",
+    "Co. Tipperary",
+    "Co. Waterford",
+    "Co. Westmeath",
+    "Co. Wexford",
+    "Co. Wicklow",
+    "Cork",
+    "Galway",
+    "Kilkenny",
+    "Limerick",
+    "Waterford"
+  ],
+  "centreAddress": [
+    "BETA-DEMO-CENTRE-2019",
+    "87-89 Pembroke Road",
+    "Ballsbridge"
+  ],
+  "selfregister": {
+    "selfreguri": "/",
+    "absoluteUri": "http://localhost:4444/",
+    "centreID": 2019,
+    "checksum": "r",
+    "acceptPrivacyPolicy": true,
+    "productsID": 28,
+    "selectClasses": null,
+    "candidateTitle": "Mr.",
+    "candidateFirstName": "asd",
+    "candidateMiddleInitial": "a",
+    "candidateSurname": "asd",
+    "address0": "asdasdasd",
+    "address1": "",
+    "address2": "",
+    "eircode": "",
+    "PostCodeCounty": 0,
+    "gender": "undisclosed",
+    "email": "asd.asd@myclick.ie",
+    "password": "ssssssss",
+    "questionid1": 1,
+    "questionresponse1": "asd",
+    "questionid2": 2,
+    "questionresponse2": "asdd"
+  }
+}
